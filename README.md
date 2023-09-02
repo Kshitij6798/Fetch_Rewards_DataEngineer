@@ -69,8 +69,9 @@ Stream Processing FrameWorks could help. At the same time Load Balancers could b
 A proper encryption algorithm can be used in the future like AES-256 or RSA, which would help in decrypting the Encrypted text but only using the decryption key which should be kept safe and secure
 
 ### What are the assumptions you made?
-I have used SHA-256 for masking the PII data which is a cryptographic hash function. So it is not possible to directly decrypt the masked data. The Incoming input could be hashed and the hash value could be compared to the masked value stored in the database to check if it matches, but there is no way to directly retrieve the original input. In future, as I stated above, if needed we could use a proper encryption algorithm so that the data could be retrieved if needed
-I have also set a limit on the number of bad messages. The limit is configurable. If the number of bad messages exceed a certain number, I am terminating the program. The logic is that there must be some corrupted value in the queue which is causing these high number of error messages and thus the system needs to be checked
+I have used SHA-256 for masking the PII data which is a cryptographic hash function. So it is not possible to directly decrypt the masked data. The Incoming input could be hashed and the hash value could be compared to the masked value stored in the database to check if it matches, but there is no way to directly retrieve the original input. In future, as I stated above, if needed we could use a proper encryption algorithm so that the data could be retrieved if needed.
+
+I have also set a limit on the number of bad messages. The limit is configurable. If the number of bad messages exceed a certain number, I am terminating the program. The logic is that there must be something wrong with the data coming into the queue  which is causing this high number of error messages and thus the system needs to be checked
 
 
 # Design
