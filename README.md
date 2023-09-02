@@ -14,4 +14,10 @@ The Python program periodically polls the SQS queue, fetches the JSON data from 
   docker compose up -d
 ```
 
+The two docker files should then be up and running. You can verify that by running the following command
+```
+docker ps
+```
+
+
 
