@@ -1,0 +1,43 @@
+2023-09-02 14:37:57.314 | INFO     | __main__:main:46 - 20 messages in the queue
+2023-09-02 14:37:57.398 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:37:57.411 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:37:57.457 | INFO     | __main__:main:46 - 40 messages in the queue
+2023-09-02 14:37:57.479 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:37:57.524 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:37:57.562 | INFO     | __main__:main:46 - 60 messages in the queue
+2023-09-02 14:37:57.583 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:37:57.697 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:37:57.734 | INFO     | __main__:main:46 - 80 messages in the queue
+2023-09-02 14:37:57.756 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:37:57.868 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:37:57.901 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:37:57.921 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:37:58.073 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:03.163 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:38:03.207 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:03.391 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:08.614 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:38:08.655 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:09.125 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:14.365 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:38:14.409 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:14.738 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:19.868 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:38:19.907 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:20.168 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:25.318 | INFO     | __main__:main:46 - 100 messages in the queue
+2023-09-02 14:38:25.367 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:25.587 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:28.135 | INFO     | __main__:main:46 - 120 messages in the queue
+2023-09-02 14:38:28.169 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:28.319 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:28.334 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:28.391 | INFO     | __main__:main:46 - 140 messages in the queue
+2023-09-02 14:38:28.422 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:28.622 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:28.669 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:28.716 | INFO     | __main__:main:46 - 160 messages in the queue
+2023-09-02 14:38:28.739 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:28.929 | ERROR    | __main__:main:54 - Failed to insert message
+2023-09-02 14:38:29.003 | DEBUG    | __main__:main:63 - Bad messages ['{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None, '{"foo": "oops_wrong_msg_type", "bar": "123"}', None]
+2023-09-02 14:38:29.003 | ERROR    | __main__:main:66 - Bad messages over the allowed limit!
