@@ -4,10 +4,11 @@ The Python program periodically polls the SQS queue, fetches the JSON data from 
 
 ## Running the code
 
- git clone https://github.com/Kshitij6798/Fetch_Rewards_DataEngineer.git
 
 <html>
 <body>
 <p>Let’s keep it as a code block and not render it for once</p>
+  git clone https://github.com/Kshitij6798/Fetch_Rewards_DataEngineer.git
+
 </body>
 </html>
