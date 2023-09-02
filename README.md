@@ -4,7 +4,7 @@ The Python program periodically polls the SQS queue, fetches the JSON data from 
 
 ## Running the code
   git clone https://github.com/Kshitij6798/Fetch_Rewards_DataEngineer.git
-'''
+```
   cd docker
   
   docker compose up -d
