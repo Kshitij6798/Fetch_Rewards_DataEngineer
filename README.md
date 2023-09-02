@@ -11,7 +11,7 @@ The Python program periodically polls the SQS queue, fetches the JSON data from 
   After navigating to the docker folder, compose the docker.yaml file using the command below
   
 ```
-  docker compose up -d
+  docker-compose up -d
 ```
 
 The two docker files should then be up and running. You can verify that by running the following command
