@@ -49,10 +49,7 @@ Results
 
 ![Alt Text](result_2.png)
 
-Provision infrastructure in a cloud environment, configure databases, and secure sensitive data.
-Use CI/CD for code deployment, monitoring, and auto-scaling.
-Implement robust error handling, security measures, and disaster recovery.
-Continuously monitor, optimize, and document the deployment while adhering to compliance and regulations.
+
 
 
 
